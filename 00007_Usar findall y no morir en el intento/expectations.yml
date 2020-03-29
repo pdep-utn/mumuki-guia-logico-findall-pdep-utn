@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: costoTotalDeHerramientasDemandadas
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: costoTotalDeHerramientasDemandadas
+  inspection: HasArity:1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: costoTotalDeHerramientasDemandadas
+  inspection: UsesFindall

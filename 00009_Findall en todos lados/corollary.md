@@ -1,0 +1,1 @@
+Lo más importante ahora que conocés esta nueva herramienta es que la uses a criterio, siempre recordando y priorizando las ideas que son centrales del paradigma.

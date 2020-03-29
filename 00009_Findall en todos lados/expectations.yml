@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: noLaNecesitaNadie
+  inspection: HasNot
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: noLaNecesitaNadie
+  inspection: Not:UsesFindall

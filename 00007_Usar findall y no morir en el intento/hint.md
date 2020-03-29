@@ -1,0 +1,1 @@
+Para obtener la sumatoria de una lista de números podés usar el predicado *sumlist/2* que relaciona a la lista con la sumatoria de sus elementos.

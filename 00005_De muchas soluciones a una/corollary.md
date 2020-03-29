@@ -1,0 +1,1 @@
+Pensá que tiene mucho sentido que el primer argumento **no sea inversible**: porque es una variable que va a ir tomando valores diferentes en cada solución de la consulta. ¡Pero el `findall` sólo puede generar una!

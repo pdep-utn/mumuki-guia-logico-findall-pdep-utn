@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuantoFalta
+  inspection: UsesFindall
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuantoFalta
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cuantoFalta
+  inspection: HasArity:1
